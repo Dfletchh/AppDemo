@@ -1,4 +1,4 @@
-# C Sharp Demo
+# C# Demo
 ## Using .NET Framework
 
-This is a Coffee cross-platform application.
+This is an project to build a cross platform mobile application
